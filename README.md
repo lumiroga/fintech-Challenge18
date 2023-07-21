@@ -11,20 +11,20 @@ This challenge deals with Python Blockchain Programming, creating chains and led
 
 A streamlit web app is the deliverable, this app allows the creation of a simple blockchain with Hash validation, multiple difficulty and a validation process, the app also allows the input of multiple Records in the blockchain.
 
-<img src="pychain.py" >
+<img src="pychain.png" >
 
 
 
 ### Form and inputs
 
 Streamlit form for adding record elements into the blockchain
-<img src="pychain_interface.py" >
+<img src="pychain_interface.png" >
 
 
 ### Block element details - Inspector
 
 The application allows to inspect all the elements in the blockchain with the deatils, including the hash, sender, receiver and the nonce
-<img src="pychain_blockinspector.py" >
+<img src="pychain_blockinspector.png" >
 
 Option to select and inspect an specific block
 <img src="pychain_genesis_and_others.png" >
@@ -33,7 +33,7 @@ Option to select and inspect an specific block
 
 Every time a new record is added to the blockchain, the record is added to the ledger list, validation can be done any time and when a record is added, this maintains the structure of the blockchain and makes it valid.
 
-<img src="pychain_ledger.py" >
+<img src="pychain_ledger.png" >
 
 ---
 
